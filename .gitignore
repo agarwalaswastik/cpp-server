@@ -1,0 +1,6 @@
+**/.DS_Store
+**/*.out
+**/*.o
+http-root-dir/cgi-bin
+myhttpd
+logs.txt
